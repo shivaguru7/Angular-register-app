@@ -1,0 +1,9 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+body {
+    margin:0;
+    padding:0px;
+    height:800px;
+  
+background: rgb(190,192,195);
+background: radial-gradient(circle, rgba(190,192,195,1) 0%, rgba(220,249,243,1) 0%, rgba(111,117,119,1) 100%);
+}
